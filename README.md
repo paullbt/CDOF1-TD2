@@ -6,6 +6,8 @@
 [GARNIERAlexandre-project1](https://github.com/AlexandreGarnierESILV/-game_of_life---AlexandreGARNIER---CDOF3_TD1-)
 [Kerian HUERTAS -CepheusEngine_TravellerRPG_Map_Generator](https://github.com/EsilvKH/CepheusEngine_TravellerRPG_Map_Generator)
 [GodjeNadia-Ascii_Art_Generetor](https://github.com/NadiaKlos/Ascii_Art_Generetor_GODJE_CDOF3)
+[ManonGARDIN-ToDoList](https://github.com/RinjieMX/ToDoListJs-GARDIN-CDOF3)
+[JulesDeleuse-project1](https://github.com/KryMucus/CDOF3-TD1)
 [GARDIN-project3](https://github.com/RinjieMX/ToDoListJs-GARDIN-CDOF3)
 [JulesDeleuse-QUIZZ_GAME](https://github.com/KryMucus/-Quiz_Game---Jules_Deleuse---CDOF3-)
 [ToDoList-Marc_Viallard-CDOF3](https://github.com/Marc94440/ToDoList-Marc_Viallard-CDOF3)
